@@ -1,0 +1,9 @@
+CARRO
+Características:
+cor vermelha
+motor
+bancos
+porta-malas
+rodas
+volante
+combustível

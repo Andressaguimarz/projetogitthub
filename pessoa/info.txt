@@ -1,0 +1,8 @@
+PESSOA
+Características:
+Cabeça
+Olhos
+Cabelo
+pernas
+braços
+boca
