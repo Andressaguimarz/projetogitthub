@@ -6,3 +6,9 @@ Cabelo
 pernas
 braços
 boca
+coração
+pulmão
+ossos
+dentes
+língua
+sistema nervoso
