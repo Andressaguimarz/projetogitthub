@@ -9,3 +9,6 @@ placa mãe
 placa de vídeo
 armazenamento
 memória RAM
+gabinete
+entrada HDMI
+entrada USB
